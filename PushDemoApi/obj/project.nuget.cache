@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "seJ4fH63nRvCT4VEt6gMGy/b6PWA+qlse4Ir5tLQjTgEpIXGZS888yw4nPexmN4OKHn5YcKyBVRiVexzaocL3g==",
+  "success": true,
+  "projectFilePath": "/Users/saqlain/Documents/projects/n/PushDemoApi/PushDemoApi/PushDemoApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/saqlain/.nuget/packages/microsoft.azure.notificationhubs/4.1.0/microsoft.azure.notificationhubs.4.1.0.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.8/microsoft.extensions.caching.abstractions.3.1.8.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/microsoft.extensions.caching.memory/3.1.8/microsoft.extensions.caching.memory.3.1.8.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.8/microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.8/microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/microsoft.extensions.options/3.1.8/microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/microsoft.extensions.primitives/3.1.8/microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/system.configuration.configurationmanager/7.0.0/system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/system.security.cryptography.protecteddata/7.0.0/system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/system.security.permissions/7.0.0/system.security.permissions.7.0.0.nupkg.sha512",
+    "/Users/saqlain/.nuget/packages/system.windows.extensions/7.0.0/system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

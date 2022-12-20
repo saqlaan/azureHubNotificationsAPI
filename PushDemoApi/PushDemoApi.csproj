@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>1020db94-86ad-45c0-bd43-935e560722a9</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Microsoft.Azure.NotificationHubs" Version="4.1.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Microsoft.Azure.NotificationHubs" />
+    <None Remove="Models\" />
+    <None Remove="Services\" />
+    <None Remove="Microsoft.Extensions.Configuration.Binder" />
+    <None Remove="System.Configuration.ConfigurationManager" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:62494",
+      "sslPort": 44395
+    }
+  },
+  "profiles": {
+    "PushDemoApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/notifications",
+      "applicationUrl": "https://localhost:7211;http://localhost:5181",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
